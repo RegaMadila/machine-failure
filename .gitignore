@@ -1,0 +1,11 @@
+venv/
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+prediction_results/
+reports/
+*.png
+# Ignore datasets (re-downloadable via opendatasets)
+machine_failure_model.cbm
+ai4i2020.csv
+predictive-maintenance-dataset-ai4i-2020/

@@ -1,4 +1,4 @@
-# Rare Failure Hunter: Predictive Maintenance Pipeline
+# Imbalanace Data Handling on Machine Failure Dataset
 
 ## Overview
 This project is an end-to-end Machine Learning pipeline designed to predict **machine failures** in industrial settings. The core challenge addressed is the **extreme class imbalance** (only ~3.4% of machines fail), which renders traditional accuracy metrics useless.
